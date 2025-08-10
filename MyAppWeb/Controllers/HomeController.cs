@@ -1,6 +1,6 @@
-using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using MyAppWeb.Models;
+using MyApp.Models;
+using System.Diagnostics;
 
 namespace MyAppWeb.Controllers
 {
